@@ -16,6 +16,13 @@
       },
       {
         "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.dfd0b409b1fa9366140a.js",
+        "name": "@jupyterlab/pullrequests",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
         "liteExtension": true,
         "load": "static/remoteEntry.c825fba8c7254c146abf.js",
         "name": "@jupyterlite/pyodide-kernel-extension"
