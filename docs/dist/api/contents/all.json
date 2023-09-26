@@ -1,0 +1,97 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-09-26T10:02:20.961355Z",
+      "format": null,
+      "last_modified": "2023-09-26T10:02:20.961355Z",
+      "mimetype": null,
+      "name": "xeus-lua",
+      "path": "xeus-lua",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-09-26T10:02:20.954436Z",
+      "format": null,
+      "last_modified": "2023-09-26T10:02:11.429877Z",
+      "mimetype": null,
+      "name": "javascript.ipynb",
+      "path": "javascript.ipynb",
+      "size": 2179,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-09-26T10:02:20.954697Z",
+      "format": null,
+      "last_modified": "2023-09-26T10:02:11.430026Z",
+      "mimetype": null,
+      "name": "p5.ipynb",
+      "path": "p5.ipynb",
+      "size": 3717,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-09-26T10:02:20.961738Z",
+      "format": null,
+      "last_modified": "2023-09-26T10:02:20.961738Z",
+      "mimetype": null,
+      "name": "xeus-sqlite",
+      "path": "xeus-sqlite",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-09-26T10:02:20.960468Z",
+      "format": null,
+      "last_modified": "2023-09-26T10:02:11.430487Z",
+      "mimetype": null,
+      "name": "python.ipynb",
+      "path": "python.ipynb",
+      "size": 15233,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-09-26T10:02:20.960072Z",
+      "format": null,
+      "last_modified": "2023-09-26T10:02:20.960072Z",
+      "mimetype": null,
+      "name": "pyodide",
+      "path": "pyodide",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-09-26T10:02:20.954006Z",
+      "format": null,
+      "last_modified": "2023-09-26T10:02:20.954006Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2023-09-26T10:02:20.961665Z",
+  "format": "json",
+  "last_modified": "2023-09-26T10:02:20.961665Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

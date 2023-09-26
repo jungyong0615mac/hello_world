@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-09-26T10:02:20.959639Z",
+      "format": null,
+      "last_modified": "2023-09-26T10:02:11.430974Z",
+      "mimetype": null,
+      "name": "gauss_machine.ipynb",
+      "path": "pyodide/pyb2d/gauss_machine.ipynb",
+      "size": 4118,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-09-26T10:02:20.957755Z",
+      "format": null,
+      "last_modified": "2023-09-26T10:02:11.431205Z",
+      "mimetype": null,
+      "name": "0_tutorial.ipynb",
+      "path": "pyodide/pyb2d/0_tutorial.ipynb",
+      "size": 18685,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-09-26T10:02:20.958061Z",
+      "format": null,
+      "last_modified": "2023-09-26T10:02:11.431393Z",
+      "mimetype": null,
+      "name": "color_mixing.ipynb",
+      "path": "pyodide/pyb2d/color_mixing.ipynb",
+      "size": 3737,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-09-26T10:02:20.959914Z",
+      "format": null,
+      "last_modified": "2023-09-26T10:02:11.431556Z",
+      "mimetype": null,
+      "name": "newtons_cradle.ipynb",
+      "path": "pyodide/pyb2d/newtons_cradle.ipynb",
+      "size": 3704,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-09-26T10:02:20.959194Z",
+      "format": null,
+      "last_modified": "2023-09-26T10:02:20.959194Z",
+      "mimetype": null,
+      "name": "games",
+      "path": "pyodide/pyb2d/games",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2023-09-26T10:02:20.959805Z",
+  "format": "json",
+  "last_modified": "2023-09-26T10:02:20.959805Z",
+  "mimetype": null,
+  "name": "pyb2d",
+  "path": "pyodide/pyb2d",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
